@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pubquiz>
+
+  <section id="rc" icon="🎤" titre="Personnalités de Radio-Canada">
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pierre_Bruneau_at_Les_Enfants_de_la_tele.jpg/220px-Pierre_Bruneau_at_Les_Enfants_de_la_tele.jpg</image>
+      <legende>Pierre Bruneau</legende>
+      <indice>Journaliste vedette de TVA depuis 40 ans</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bernard_Derome.jpg/220px-Bernard_Derome.jpg</image>
+      <legende>Bernard Derome</legende>
+      <indice>Présentateur du Téléjournal pendant 30 ans</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Céline_Galipeau_2012.jpg/220px-Céline_Galipeau_2012.jpg</image>
+      <legende>Céline Galipeau</legende>
+      <indice>Chef d'antenne du Téléjournal (Radio-Canada)</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Guy_A._Lepage_%282%29.jpg/220px-Guy_A._Lepage_%282%29.jpg</image>
+      <legende>Guy A. Lepage</legende>
+      <indice>Animateur de Tout le monde en parle</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Patrice_Roy.jpg/220px-Patrice_Roy.jpg</image>
+      <legende>Patrice Roy</legende>
+      <indice>Journaliste et correspondant pour Radio-Canada</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dominique_Poirier_2.jpg/220px-Dominique_Poirier_2.jpg</image>
+      <legende>Dominique Poirier</legende>
+      <indice>Animatrice et journaliste à Radio-Canada</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Marie-France_Bazzo.jpg/220px-Marie-France_Bazzo.jpg</image>
+      <legende>Marie-France Bazzo</legende>
+      <indice>Animatrice et productrice, Bazzo.tv et Christiane Charette</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/RenéHomier-Roy.JPG/220px-RenéHomier-Roy.JPG</image>
+      <legende>René Homier-Roy</legende>
+      <indice>Animateur radio emblématique de Radio-Canada</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Normand_Brathwaite.jpg/220px-Normand_Brathwaite.jpg</image>
+      <legende>Normand Brathwaite</legende>
+      <indice>Animateur, humoriste, personnalité TV québécoise</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Sophie_Thibault_2009.jpg/220px-Sophie_Thibault_2009.jpg</image>
+      <legende>Sophie Thibault</legende>
+      <indice>Première femme chef d'antenne TVA, 2001</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+  </section>
+
+  <section id="mtl" icon="🏛️" titre="Édifices montréalais">
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Montreal_Biosphere_crop.jpg/320px-Montreal_Biosphere_crop.jpg</image>
+      <legende>La Biosphère</legende>
+      <indice>Construit pour Expo 67, dessiné par Buckminster Fuller</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Olympic_Stadium_Montreal_2.jpg/320px-Olympic_Stadium_Montreal_2.jpg</image>
+      <legende>Stade olympique</legende>
+      <indice>Inauguré pour les Jeux de 1976, tour inclinée la plus haute du monde</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Notre-Dame_Basilica%2C_Montreal.jpg/320px-Notre-Dame_Basilica%2C_Montreal.jpg</image>
+      <legende>Basilique Notre-Dame</legende>
+      <indice>Inaugurée en 1829, Place d'Armes, Vieux-Montréal</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Habitat_67_crop.jpg/320px-Habitat_67_crop.jpg</image>
+      <legende>Habitat 67</legende>
+      <indice>Complexe résidentiel de Moshe Safdie, Expo 67</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Tour_de_la_Bourse_Montreal_2009.jpg/220px-Tour_de_la_Bourse_Montreal_2009.jpg</image>
+      <legende>1000 De La Gauchetière</legende>
+      <indice>Plus haut gratte-ciel de Montréal (189 m)</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Oratoire_saint_joseph_montreal.jpg/320px-Oratoire_saint_joseph_montreal.jpg</image>
+      <legende>Oratoire Saint-Joseph</legende>
+      <indice>Fondé par le frère André, dôme parmi les plus grands au monde</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Place_Ville_Marie_crop.jpg/220px-Place_Ville_Marie_crop.jpg</image>
+      <legende>Place Ville-Marie</legende>
+      <indice>Tour cruciforme inaugurée en 1962, symbole du centre-ville</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Marche_Bonsecours.jpg/320px-Marche_Bonsecours.jpg</image>
+      <legende>Marché Bonsecours</legende>
+      <indice>Bâtiment néoclassique du XIXe siècle, Vieux-Montréal</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/McGill_University_Arts_Building.jpg/320px-McGill_University_Arts_Building.jpg</image>
+      <legende>Pavillon des Arts — Université McGill</legende>
+      <indice>Édifice central de l'Université McGill, fondée en 1821</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hotel_de_ville_Montreal.jpg/320px-Hotel_de_ville_Montreal.jpg</image>
+      <legende>Hôtel de ville de Montréal</legende>
+      <indice>Style Second Empire, discours de De Gaulle en 1967</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Complexe_Desjardins.jpg/320px-Complexe_Desjardins.jpg</image>
+      <legende>Complexe Desjardins</legende>
+      <indice>Complexe commercial et résidentiel, centre-ville, 1976</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/UQAM_Pavillon_Judith-Jasmin.jpg/320px-UQAM_Pavillon_Judith-Jasmin.jpg</image>
+      <legende>Pavillon Judith-Jasmin — UQAM</legende>
+      <indice>Pavillon emblématique de l'UQAM intégrant une vieille église</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+  </section>
+
+  <section id="logo" icon="📡" titre="Logos de conglomérats radio-télévision">
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CBC_Radio-Canada_wordmark.svg/320px-CBC_Radio-Canada_wordmark.svg.png</image>
+      <legende>CBC / Radio-Canada</legende>
+      <indice>Société d'État canadienne fondée en 1936</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bell_logo.svg/320px-Bell_logo.svg.png</image>
+      <legende>Bell Média</legende>
+      <indice>Propriétaire de CTV, TSN, RDS, Noovo…</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Rogers_Communications_logo.svg/320px-Rogers_Communications_logo.svg.png</image>
+      <legende>Rogers Communications</legende>
+      <indice>Propriétaire de Citytv, FX Canada, SportsNet…</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Quebecor_logo.svg/320px-Quebecor_logo.svg.png</image>
+      <legende>Québecor</legende>
+      <indice>Propriétaire de TVA, QUB, Journal de Montréal…</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Comcast_Logo.svg/320px-Comcast_Logo.svg.png</image>
+      <legende>Comcast</legende>
+      <indice>Propriétaire de NBCUniversal, Sky, Telemundo…</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/320px-Amazon_logo.svg.png</image>
+      <legende>Amazon / Prime Video</legende>
+      <indice>Propriétaire d'Amazon Prime Video, MGM, Twitch</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warner_Bros._Discovery_logo.svg/320px-Warner_Bros._Discovery_logo.svg.png</image>
+      <legende>Warner Bros. Discovery</legende>
+      <indice>Fusion de WarnerMedia et Discovery, 2022 — CNN, HBO, Max…</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Walt_Disney_Company_Logo.svg/320px-Walt_Disney_Company_Logo.svg.png</image>
+      <legende>The Walt Disney Company</legende>
+      <indice>ABC, ESPN, FX, Disney+, Hulu, National Geographic…</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/320px-Netflix_2015_logo.svg.png</image>
+      <legende>Netflix</legende>
+      <indice>Leader mondial de la vidéo en streaming, fondé en 1997</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paramount_Pictures_logo.svg/320px-Paramount_Pictures_logo.svg.png</image>
+      <legende>Paramount Global</legende>
+      <indice>CBS, MTV, Nickelodeon, Paramount+, BET…</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bertelsmann_logo.svg/320px-Bertelsmann_logo.svg.png</image>
+      <legende>Bertelsmann</legende>
+      <indice>RTL Group, BMG, Penguin Random House — géant allemand des médias</indice>
+    </carte>
+    <carte>
+      <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Google_News_logo.svg/220px-Google_News_logo.svg.png</image>
+      <legende>Alphabet / YouTube</legende>
+      <indice>Propriétaire de YouTube, Google Podcasts…</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+    <carte>
+      <image></image>
+      <legende>Nom à ajouter</legende>
+      <indice>Ajoute ton indice ici</indice>
+    </carte>
+  </section>
+
+</pubquiz>
