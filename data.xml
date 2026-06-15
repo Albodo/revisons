@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pubquiz>
-  <section id="mtl" icon="🏛️" titre="Stades de footbal">
+  <section id="foot" icon="🏛️" titre="Stades de footbal">
     <carte>
       <image>images/atlanta.jpg</image>
       <legende>Atlanta</legende>
@@ -17,12 +17,12 @@
       <indice>ATetT Stadium</indice>
     </carte>
     <carte>
-      <image>images/Guadalajara.jpg</image>
+      <image>images/guadalajara.jpg</image>
       <legende>Guadalajara</legende>
       <indice>Estadio Akron</indice>
     </carte>
     <carte>
-      <image>images/Houston.jpg</image>
+      <image>images/houston.jpg</image>
       <legende>Houston</legende>
       <indice>NRG Stadium</indice>
     </carte>
