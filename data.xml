@@ -1,66 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pubquiz>
 
+<section id="mtl" icon="🏛️" titre="Logos de conglomérats">
+    <carte>
+      <image></image>
+      <legende></legende>
+      <indice></indice>
+    </carte>
+    
+</section>
+
   <section id="mtl" icon="🏛️" titre="Édifices montréalais">
     <carte>
-      <image>images/biosphere.webp</image>
-      <legende>La Biosphère</legende>
-      <indice>Construit pour Expo 67, dessiné par Buckminster Fuller</indice>
+      <image>images/atlanta.jpg</image>
+      <legende>Atlanta</legende>
+      <indice>Mercedez-Benz Stadium</indice>
     </carte>
     <carte>
-      <image>images/stade.jpeg</image>
-      <legende>Stade olympique</legende>
-      <indice>Inauguré pour les Jeux de 1976, tour inclinée la plus haute du monde</indice>
+      <image>images/boston.jpg</image>
+      <legende>Boston</legende>
+      <indice>Gilette Stadium</indice>
     </carte>
     <carte>
-      <image>images/Design-sans-titre-1-1024x683.jpg</image>
-      <legende>Basilique Notre-Dame</legende>
-      <indice>Inaugurée en 1829, Place d'Armes, Vieux-Montréal</indice>
+      <image>images/dallas.jpg</image>
+      <legende>Dallas</legende>
+      <indice>AT&T Stadium</indice>
     </carte>
     <carte>
-      <image>images/habitat.jpeg</image>
-      <legende>Habitat 67</legende>
-      <indice>Complexe résidentiel de Moshe Safdie, Expo 67</indice>
+      <image>images/Guadalajara.jpg</image>
+      <legende>Guadalajara</legende>
+      <indice>Estadio Akron</indice>
     </carte>
     <carte>
-      <image>images/gauche.jpg</image>
-      <legende>1000 De La Gauchetière</legende>
-      <indice>Plus haut gratte-ciel de Montréal (189 m)</indice>
+      <image>images/Houston.jpg</image>
+      <legende>Houston</legende>
+      <indice>NRG Stadium</indice>
     </carte>
     <carte>
-      <image>images\Oratoire_Saint-Joseph_du_Mont-Royal_-_Montreal.jpg</image>
-      <legende>Oratoire Saint-Joseph</legende>
-      <indice>Fondé par le frère André, dôme parmi les plus grands au monde</indice>
+      <image>images\kansas.png</image>
+      <legende>Kansas City</legende>
+      <indice>Arrowhead Stadium</indice>
     </carte>
     <carte>
-      <image>images\Place_Ville_Marie_(Montreal).jpg</image>
-      <legende>Place Ville-Marie</legende>
-      <indice>Tour cruciforme inaugurée en 1962, symbole du centre-ville</indice>
+      <image>images\losangeles.jpg</image>
+      <legende>Los Angeles</legende>
+      <indice>SoFi Stadium</indice>
     </carte>
     <carte>
-      <image>images\Marché_Bonsecours_in_Old_Montreal.jpg</image>
-      <legende>Marché Bonsecours</legende>
-      <indice>Bâtiment néoclassique du XIXe siècle, Vieux-Montréal</indice>
+      <image>images\mexicocity.jpeg</image>
+      <legende>Mexico City</legende>
+      <indice>Estadio Azteca</indice>
     </carte>
     <carte>
-      <image>images\mcgill.jpeg</image>
-      <legende>Pavillon des Arts — Université McGill</legende>
-      <indice>Édifice central de l'Université McGill, fondée en 1821</indice>
+      <image>images\miami.jpg</image>
+      <legende>Miami</legende>
+      <indice>Hard Rock Stadium</indice>
     </carte>
     <carte>
-      <image>images\hotelmontreal.jpg</image>
-      <legende>Hôtel de ville de Montréal</legende>
-      <indice>Style Second Empire, discours de De Gaulle en 1967</indice>
+      <image>images\monterrey.avif</image>
+      <legende>Monterrey</legende>
+      <indice>Estadio BBVA</indice>
     </carte>
     <carte>
-      <image>images\ComplexeDesjardins_DavidBoyer_002.jpg</image>
-      <legende>Complexe Desjardins</legende>
-      <indice>Complexe commercial et résidentiel, centre-ville, 1976</indice>
+      <image>images\Newyork.jpg</image>
+      <legende>New-York (New-Jersey)</legende>
+      <indice>MetLife Stadium</indice>
     </carte>
     <carte>
-      <image>images\uqam.jpeg</image>
-      <legende>Pavillon Judith-Jasmin — UQAM</legende>
-      <indice>Pavillon emblématique de l'UQAM intégrant une vieille église</indice>
+      <image>images\philadelphia.webp</image>
+      <legende>Philadelphia</legende>
+      <indice>Lincoln Financial Field</indice>
+    </carte>
+    <carte>
+      <image>images\sanfrancisco.webp</image>
+      <legende>San Francisco</legende>
+      <indice>Levi's Stadium</indice>
+    </carte>
+    <carte>
+      <image>images\seattle.webp</image>
+      <legende>Seattle</legende>
+      <indice>Lumen Field</indice>
+    </carte>
+    <carte>
+      <image>images\toronto.jpg</image>
+      <legende>Toronto</legende>
+      <indice>BMO Field</indice>
+    </carte>
+    <carte>
+      <image>images\vancouver.jpg</image>
+      <legende>Vancouver</legende>
+      <indice>BC Place</indice>
     </carte>
   </section>
 
