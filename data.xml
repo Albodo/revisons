@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pubquiz>
-
-<section id="mtl" icon="🏛️" titre="Logos de conglomérats">
-    <carte>
-      <image></image>
-      <legende></legende>
-      <indice></indice>
-    </carte>
-    
-</section>
-
-  <section id="mtl" icon="🏛️" titre="Édifices montréalais">
+  <section id="mtl" icon="🏛️" titre="Stades de footbal">
     <carte>
       <image>images/atlanta.jpg</image>
       <legende>Atlanta</legende>
@@ -24,7 +14,7 @@
     <carte>
       <image>images/dallas.jpg</image>
       <legende>Dallas</legende>
-      <indice>AT&T Stadium</indice>
+      <indice>ATetT Stadium</indice>
     </carte>
     <carte>
       <image>images/Guadalajara.jpg</image>
